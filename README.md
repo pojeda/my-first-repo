@@ -1,1 +1,2 @@
-## Example for working with remotes
+## Example for working with R GitHub inte*gration using SSH
+## from my local computer
